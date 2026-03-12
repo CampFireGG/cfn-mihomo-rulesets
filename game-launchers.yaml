@@ -6,13 +6,28 @@ payload:
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubisoftconnect.com
   - DOMAIN-SUFFIX,uplay.com
+
   - DOMAIN-SUFFIX,epicgames.com # Epic Games
+
   - PROCESS-NAME-REGEX,(?i).*Rockstar.* # Rockstar
   - PROCESS-NAME-REGEX,(?i).*SocialClub.* # Rockstar Social Club
+
   - PROCESS-NAME-REGEX,(?i).*Epic.* # Epic Games
   - PROCESS-NAME-REGEX,(?i).*Steam.* # Steam
   - PROCESS-NAME-REGEX,(?i).*Battle.net.* # Battle.net
+
   - PROCESS-NAME,agent.exe
   - PROCESS-NAME-REGEX,(?i).*Origin.* # Origin  
   - PROCESS-NAME-REGEX,(?i).*EA.* # EA
   - PROCESS-NAME-REGEX,(?i).*Marvel.* # EA
+
+
+  # Игры
+  - PROCESS-NAME,Wuthering_waves.exe
+  - PROCESS-NAME,Overwatch_2.exe
+  - PROCESS-NAME,Overwatch.exe
+  - PROCESS-NAME,League of Legends.exe
+  - PROCESS-NAME,VALORANT-Win64-Shipping.exe
+  - PROCESS-NAME,steam.exe
+  - PROCESS-NAME,helldivers2.exe
+  - PROCESS-NAME,EMLauncher-Win64-Shipping.exe
