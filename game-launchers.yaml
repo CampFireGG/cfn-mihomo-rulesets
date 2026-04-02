@@ -32,3 +32,6 @@ payload:
   - PROCESS-NAME,EMLauncher-Win64-Shipping.exe
   - PROCESS-NAME,Client-Win64-Shipping.exe
   - PROCESS-NAME,KRSDKExternal.exe
+  # Apex Legends
+  - PROCESS-NAME,ApexLauncher.exe # Launcher
+  - PROCESS-NAME,r5apex_dx12.exe # Apex Legends (DX12)
