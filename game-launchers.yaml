@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubisoftconnect.com
   - DOMAIN-SUFFIX,uplay.com
+  - PROCESS-NAME,hydra-python-rpc.exe
 
   - DOMAIN-SUFFIX,epicgames.com # Epic Games
 
