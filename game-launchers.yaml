@@ -24,6 +24,7 @@ payload:
 
 
   # Игры
+  - PROCESS-NAME,aces.exe
   - PROCESS-NAME,Wuthering_waves.exe
   - PROCESS-NAME,Overwatch_2.exe
   - PROCESS-NAME,Overwatch.exe
