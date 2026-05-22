@@ -38,3 +38,4 @@ payload:
   # Apex Legends
   - PROCESS-NAME,ApexLauncher.exe # Launcher
   - PROCESS-NAME,r5apex_dx12.exe # Apex Legends (DX12)
+  - PROCESS-NAME,forzahorizon6.exe # Forza Horizon 6
