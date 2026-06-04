@@ -16,3 +16,4 @@ payload:
   - PROCESS-NAME,r5apex_dx12.exe # Apex Legends (DX12)
   - PROCESS-NAME,forzahorizon6.exe # Forza Horizon 6
   - PROCESS-NAME,ProjectZomboid64.exe
+  - PROCESS-NAME,BlueArchive.exe
