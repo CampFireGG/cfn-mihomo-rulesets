@@ -134,6 +134,9 @@ payload:
   # Valorant
   - PROCESS-NAME,VALORANT-Win64-Shipping.exe
 
+  # Warframe
+  - PROCESS-NAME,Warframe.x64.exe
+
   # War Thunder
   - PROCESS-NAME,aces.exe
   - PROCESS-NAME,aces_BE.exe
