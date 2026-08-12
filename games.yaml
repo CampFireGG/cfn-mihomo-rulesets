@@ -111,6 +111,9 @@ payload:
   - PROCESS-NAME,ExecPubg.exe
   - PROCESS-NAME-REGEX,TslGame.*
 
+  # REPO
+  - PROCESS-NAME,REPO.exe
+
   # Quaver
   - PROCESS-NAME,Quaver.exe
 
