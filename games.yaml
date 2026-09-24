@@ -140,6 +140,10 @@ payload:
   # Warframe
   - PROCESS-NAME,Warframe.x64.exe
 
+  # WARGAME
+  - PROCESS-NAME,WardogsLauncher-Shipping.exe
+  - PROCESS-NAME,WardogsClient-Win64-Shipping.exe
+
   # War Thunder
   - PROCESS-NAME,aces.exe
   - PROCESS-NAME,aces_BE.exe
