@@ -33,6 +33,9 @@ payload:
   # Deadlock
   - PROCESS-NAME,deadlock.exe
 
+  # Destiny 2
+  - PROCESS-NAME,destiny2.exe
+
   # Dota 2
   - PROCESS-NAME,dota2.exe
 
