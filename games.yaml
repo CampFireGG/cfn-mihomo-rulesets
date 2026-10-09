@@ -89,6 +89,9 @@ payload:
   # MIMESIS
   - PROCESS-NAME,MIMESIS.exe
 
+  # No Man's Sky
+  - PROCESS-NAME,NMS.exe
+
   # osu!
   - PROCESS-NAME,osu!.exe
 
