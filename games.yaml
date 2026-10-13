@@ -110,6 +110,9 @@ payload:
   # Phasmophobia
   - PROCESS-NAME,Phasmophobia.exe
 
+  # Arc Raiders
+  - PROCESS-NAME,PioneerGame.exe  
+
   # Project Zomboid
   - PROCESS-NAME,ProjectZomboid64.exe
 
