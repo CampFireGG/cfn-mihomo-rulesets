@@ -116,6 +116,9 @@ payload:
   # Project Zomboid
   - PROCESS-NAME,ProjectZomboid64.exe
 
+  # Poblox
+  - PROCESS-NAME,RobloxPlayerBeta.exe
+
   # PUBG
   - PROCESS-NAME,ExecPubg.exe
   - PROCESS-NAME-REGEX,TslGame.*
