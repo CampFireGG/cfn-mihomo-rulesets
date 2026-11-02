@@ -47,6 +47,9 @@ payload:
   - PROCESS-NAME,eurotrucks2.exe
   - PROCESS-NAME,amtrucks.exe
 
+  # Factorio
+  - PROCESS-NAME,factorio.exe
+  
   # Farming Simulator 2025
   - PROCESS-NAME,FarmingSimulator2025Game.exe
 
