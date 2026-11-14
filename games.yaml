@@ -8,6 +8,9 @@ payload:
   # Among Us
   - PROCESS-NAME,Among Us.exe
 
+  # Aniimo
+  - PROCESS-NAME,Aniimo.exe
+
   # Apex Legends
   - PROCESS-NAME,ApexLauncher.exe
   - PROCESS-NAME,r5apex_dx12.exe
