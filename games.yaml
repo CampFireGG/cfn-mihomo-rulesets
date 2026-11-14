@@ -132,6 +132,9 @@ payload:
   # ROB RUN
   - PROCESS-NAME,ROB RUN.exe
 
+  # Scam Line
+  - PROCESS-NAME,Scam Line.exe
+
   # Quaver
   - PROCESS-NAME,Quaver.exe
 
