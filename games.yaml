@@ -133,7 +133,7 @@ payload:
   - PROCESS-NAME,REPO.exe
 
   # REMATCH
-  - PROCESS-NAME,RuntimeClient-Win64-Shipping.exe
+  - PROCESS-NAME-REGEX,(?i)^RuntimeClient.*
 
   # ROB RUN
   - PROCESS-NAME,ROB RUN.exe
