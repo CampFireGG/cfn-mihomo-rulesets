@@ -17,6 +17,11 @@ payload:
   - PROCESS-NAME-REGEX,(?i).*Riot.* # Epic Games
   - PROCESS-NAME-REGEX,(?i).*Steam.* # Steam
   - PROCESS-NAME-REGEX,(?i).*Battle.net.* # Battle.net
+  - DOMAIN-SUFFIX,blizzard.com # Blizzard
+  - DOMAIN-SUFFIX,battle.net
+  - DOMAIN-SUFFIX,blzstatic.com
+  - DOMAIN-SUFFIX,blizzardcdn.com
+  - DOMAIN-SUFFIX,battlenet.com.cn
 
   - PROCESS-NAME,agent.exe
   - PROCESS-NAME-REGEX,(?i).*Origin.* # Origin  
