@@ -36,6 +36,9 @@ payload:
   # Deadlock
   - PROCESS-NAME,deadlock.exe
 
+  # DeadSpace 3
+  - PROCESS-NAME,deadspace3.exe
+
   # Destiny 2
   - PROCESS-NAME,destiny2.exe
 
